@@ -1,0 +1,43 @@
+{
+	"spm": {
+		"main": "js/dist/graph-weighted.js"
+	},
+	"homepage": "http://aureooms.github.io/js-graph-weighted/",
+	"main": "js/dist/graph-weighted.js",
+	"keywords": [
+		"bricks",
+		"edge",
+		"edges",
+		"ender",
+		"graph",
+		"graphs",
+		"javascript",
+		"js",
+		"vertex",
+		"vertices",
+		"weight",
+		"weighted",
+		"weighted graph"
+	],
+	"bugs": {
+		"url": "https://github.com/aureooms/js-graph-weighted/issues"
+	},
+	"license": "AGPL-3.0",
+	"name": "aureooms-js-graph-weighted",
+	"repository": {
+		"url": "https://github.com/aureooms/js-graph-weighted.git",
+		"type": "git"
+	},
+	"author": "aureooms",
+	"version": "0.0.0",
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"devDependencies": {
+		"aureooms-node-package": "^4.2.5"
+	},
+	"description": "Weighted graph code bricks for JavaScript",
+	"dependencies": {}
+}

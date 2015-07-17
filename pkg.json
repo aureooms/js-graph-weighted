@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"name": "graph-weighted",
+	"src": "js/src/",
+	"out": "js/dist/",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"graph-weighted.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	}
+}
