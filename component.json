@@ -4,7 +4,7 @@
 	],
 	"name": "aureooms-js-graph-weighted",
 	"repo": "aureooms/js-graph-weighted",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "js/dist/graph-weighted.js",
 	"description": "Weighted graph code bricks for JavaScript",
 	"license": "AGPL-3.0"
