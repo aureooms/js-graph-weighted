@@ -36,7 +36,7 @@
 		"test": "./node_modules/.bin/aureooms-node-package-test"
 	},
 	"devDependencies": {
-		"aureooms-node-package": "^4.2.5"
+		"aureooms-node-package": "^6.0.1"
 	},
 	"description": "Weighted graph code bricks for JavaScript",
 	"dependencies": {}
