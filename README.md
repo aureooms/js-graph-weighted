@@ -3,7 +3,7 @@
 
 Weighted graph code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-graph-weighted.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-weighted/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-graph-weighted.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-weighted/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-weighted.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-weighted)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-weighted.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-weighted)
 [![Build Status](https://img.shields.io/travis/aureooms/js-graph-weighted.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-weighted)
