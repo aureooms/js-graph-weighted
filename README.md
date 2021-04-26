@@ -1,4 +1,4 @@
-[js-graph-weighted](http://aureooms.github.io/js-graph-weighted)
+[js-graph-weighted](http://make-github-pseudonymous-again.github.io/js-graph-weighted)
 ==
 
 Weighted graph code bricks for JavaScript
