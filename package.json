@@ -20,12 +20,12 @@
 		"weighted graph"
 	],
 	"bugs": {
-		"url": "https://github.com/aureooms/js-graph-weighted/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-weighted/issues"
 	},
 	"license": "AGPL-3.0",
 	"name": "@aureooms/js-graph-weighted",
 	"repository": {
-		"url": "https://github.com/aureooms/js-graph-weighted.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-weighted.git",
 		"type": "git"
 	},
 	"author": "aureooms",
